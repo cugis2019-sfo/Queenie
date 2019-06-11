@@ -26,3 +26,14 @@ def trianglearea(a,b):
     print ("the area of a triangle", trianglearea) 
 
 trianglearea (3,4)
+
+def name(a):
+    name = a
+    print("My name is", a)
+   
+name ("queenie")       
+
+def greetings(a):
+    greetings = a 
+    Print("hello", greetings)
+greeting("queenie")
