@@ -37,3 +37,45 @@ def greetings(a):
     greetings = a 
     Print("hello", greetings)
 greeting("queenie")
+
+math.pi 
+math.e
+math.sqrt(2)
+math.factorial(1730)
+math.pow(3,10)
+math.remainder(4,6)
+
+def cube(a):
+    cube = a 
+    print("the cube root of", cube )
+    
+cube(9)
+
+math.isclose (2.135,5.694)
+math.nan
+
+def user():
+    print ("please select a number for t")
+    
+user()
+cubicroot(t)math.pi 
+math.e
+math.sqrt(2)
+math.factorial(1730)
+math.pow(3,10)
+math.remainder(4,6)
+
+def cube(a):
+    cube = a 
+    print("the cube root of", cube )
+    
+cube(9)
+
+math.isclose (2.135,5.694)
+math.nan
+
+def user():
+    print ("please select a number for t")
+    
+user()
+cubicroot(t)
