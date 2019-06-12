@@ -37,7 +37,7 @@ print(student)
 chocolate = pandas.Series(chocolate)
 print(chocolate)
 
-#dataFrame]
+#dataFrame
 chocolatedata = (chocolates)
 chocolatesdf(chocolates)
    
