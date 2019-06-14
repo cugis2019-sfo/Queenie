@@ -9,6 +9,7 @@ print(df)
 
 #we use the Bar graph option of the graph_objs function from the plotly library
 cancer = go.Bar(x = df["CancerType"], y = df["Number"],
+                      marker = {"color": df["Number"], "colorscale" : "Portland"}
                     
               
               )
